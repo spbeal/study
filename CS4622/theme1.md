@@ -1,4 +1,4 @@
-# Theme 1: Python Programming – Lecture Notes
+# Python Programming (1)
 
 ## Table of Contents
 - [Lecture 2: Data Types in Python](#lecture-2-data-types-in-python)
