@@ -1,0 +1,4 @@
+title: "Study Notes"
+markdown: kramdown
+theme: minima
+baseurl: "/study"   # Subfolder for GitHub Pages if using a repository name
