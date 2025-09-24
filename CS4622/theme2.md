@@ -1,4 +1,4 @@
-# Data Engineering Lecture Notes – Compressed Study Guide
+# Data Engineering (2)
 
 ## Lecture 6: NumPy
 
